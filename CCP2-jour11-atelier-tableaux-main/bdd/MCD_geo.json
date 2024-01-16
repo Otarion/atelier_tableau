@@ -1,0 +1,28 @@
+{
+  "width": 298,
+  "height": 263,
+  "cx": [
+    [ "USERS", 57 ],
+    [ "WRITE", 161 ],
+    [ "POSTS", 253 ],
+    [ "ADD", 57 ],
+    [ "COMMENTS", 161 ]
+  ],
+  "cy": [
+    [ "USERS", 85 ],
+    [ "WRITE", 85 ],
+    [ "POSTS", 85 ],
+    [ "ADD", 220 ],
+    [ "COMMENTS", 220 ]
+  ],
+  "shift": [
+    [ "WRITE,USERS,0", 0 ],
+    [ "WRITE,POSTS,0", 0 ],
+    [ "ADD,COMMENTS,0", 0 ],
+    [ "ADD,USERS,0", 0 ]
+  ],
+  "ratio": [
+    [ "WRITE,POSTS,0", 1.0 ],
+    [ "ADD,COMMENTS,0", 1.0 ]
+  ]
+}
