@@ -1,6 +1,0 @@
-Users: num_user, name, email, isAdmin, contactDetails, address, phoneNumber
-Write, 0N Users, 11> Posts
-Posts: num_post, title, excerpt
-
-Add, 0N> Comments, 01 Users
-Comments: num_comment, content
